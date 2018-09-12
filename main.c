@@ -8,6 +8,10 @@ double sub(double x, double y){
 	return x - y;
 }
 
+double mul(double x, double y){
+	return x * y;
+}
+
 void main(){
-	
+
 }
